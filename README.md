@@ -12,3 +12,4 @@ This project demonstrates collaboration using Git and GitHub.
 - Pull request creation
 - Pull request merging
 Branch 1: This change was made in feature-branch-1.
+Branch 2: This change was made in feature-branch-2.
